@@ -28,3 +28,34 @@ C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\refint\MyMvcApp.dll
 C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\MyMvcApp.pdb
 C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
 C:\Users\azureuser\MyMvcApp\obj\Debug\net8.0\ref\MyMvcApp.dll
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\appsettings.Development.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\appsettings.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\MyMvcApp.staticwebassets.runtime.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\MyMvcApp.exe
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\MyMvcApp.deps.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\MyMvcApp.runtimeconfig.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\MyMvcApp.dll
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\bin\Debug\net8.0\MyMvcApp.pdb
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.AssemblyInfoInputs.cache
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.AssemblyInfo.cs
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.csproj.CoreCompileInputs.cache
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.MvcApplicationPartsAssemblyInfo.cache
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.RazorAssemblyInfo.cache
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.RazorAssemblyInfo.cs
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.sourcelink.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\staticwebassets.build.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\staticwebassets.development.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\staticwebassets\msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\staticwebassets\msbuild.build.MyMvcApp.props
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyMvcApp.props
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyMvcApp.props
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\staticwebassets.pack.json
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\scopedcss\bundle\MyMvcApp.styles.css
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\scopedcss\projectbundle\MyMvcApp.bundle.scp.css
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.dll
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\refint\MyMvcApp.dll
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.pdb
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
+D:\David Cativa\MyMvcApp-Contact-Database-Application_David\obj\Debug\net8.0\ref\MyMvcApp.dll
