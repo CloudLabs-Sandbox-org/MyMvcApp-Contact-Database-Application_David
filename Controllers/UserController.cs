@@ -111,4 +111,22 @@ public class UserController : Controller
 
             return RedirectToAction(nameof(Index)); // Redirige a la lista de usuarios
         }
+        // GET: User/Search
+        public ActionResult Search(string query)
+        {
+            if (string.IsNullOrEmpty(query))
+            {
+                // Si no hay consulta, devuelve la lista completa
+                return View("Index", userlist);
+            }
+
+            // Filtra la lista de usuarios por nombre, email o teléfono
+            var results = userlist.Where(u =>
+                u.Name.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                u.Email.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                u.Phone.Contains(query, StringComparison.OrdinalIgnoreCase)).ToList();
+
+            // Devuelve los resultados a la vista Index
+            return View("Index", results);
+        }
 }
